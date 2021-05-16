@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semantic_Segmentation_Unet_IIITOxfordPetDataset", "Semantic_Segmentation_Unet_IIITOxfordPetDataset\Semantic_Segmentation_Unet_IIITOxfordPetDataset.pyproj", "{E73EA510-3758-4C73-80FE-7E83B3C16754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73EA510-3758-4C73-80FE-7E83B3C16754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73EA510-3758-4C73-80FE-7E83B3C16754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8034D24C-F220-44FE-8F9D-F310C82532A7}
+	EndGlobalSection
+EndGlobal
